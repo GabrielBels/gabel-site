@@ -1,0 +1,20 @@
+.titleContact{
+    color:white;
+    text-align:center;
+}
+
+.divContact label{
+    color:white;
+}
+
+.column{
+    margin-top: 5vh;
+}
+
+input[type="submit"]{
+    margin-top:10vh;
+}
+
+#message{
+    height: 20vh;
+}
