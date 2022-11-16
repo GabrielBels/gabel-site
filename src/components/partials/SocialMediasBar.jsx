@@ -3,7 +3,7 @@ import React from "react";
 import { FaFacebook, FaInstagram, FaLinkedin, FaWhatsapp } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 
-import '../../css/contactbar.css'
+import '../../css/socialmediasbar.css'
 
 export default props => {
     return (

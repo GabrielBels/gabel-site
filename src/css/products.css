@@ -1,0 +1,31 @@
+.titleOurProducts{
+  color:white;
+  text-align: center;
+}
+
+.divOurProducts svg{
+  filter: invert();
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  text-align: center;
+}
+
+.break{
+  flex-basis: 100%;
+  height: 0;
+  margin-bottom: 10vh;
+}
+
+.productItem{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.productItem svg{
+  font-size: 40px;
+}
+
+.productIcon{
+  display: block;
+}

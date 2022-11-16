@@ -3,7 +3,7 @@ import React from "react";
 import Header from "../partials/Header";
 import Calendly from "../partials/Calendly";
 import ContactBar from "../partials/SocialMediasBar";
-import OurClients from "../partials/OurClients";
+import Clients from "../partials/Clients";
 import Background from "../partials/Background";
 
 export default props => {
@@ -11,7 +11,7 @@ export default props => {
         <>
         <Header />
         <Background isColor={true} color="#000" />
-        <OurClients />
+        <Clients />
         <ContactBar />
         <Calendly />
         </>

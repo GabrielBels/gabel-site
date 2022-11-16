@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
 
-import '../../css/ourclients.css';
+import '../../css/clients.css';
 
 import aguiarLogo from '../../img/clients/aguiar.jpg'
 import contselfLogo from '../../img/clients/contself.png'
