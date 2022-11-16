@@ -1,0 +1,33 @@
+.contactBar{
+  color:white;
+  background-color: #000d;
+  text-align: center;
+  padding-top: 5vh;
+}
+
+.titleSocialMedia{
+  padding-bottom: 5vh;
+}
+
+.contactBar .row{
+  margin-right: 0;
+  margin-left:0;
+  margin-top: 2vh;
+}
+
+a.socialMediaLink{
+  text-decoration: none;
+  color:white;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
+
+a.socialMediaLink:hover{
+  border-radius: 2px;
+
+ background-color: #aaa6;
+}
+
+.socialMediaLink svg{
+  font-size: 25px;
+}

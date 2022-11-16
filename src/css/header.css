@@ -27,6 +27,7 @@ header {
   text-decoration: none;
   color: ghostwhite;
   display: flex;
+  text-align: center;
   align-items: center;
 }
 

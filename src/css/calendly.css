@@ -14,4 +14,5 @@
 .btn-calendly svg {
   margin: auto;
   filter: invert();
+  font-size: 25px;
 }

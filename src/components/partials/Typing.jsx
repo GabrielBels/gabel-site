@@ -1,12 +1,9 @@
 import React, { useEffect, useState, useRef } from "react";
 
-
-import worldVideo from '../img/world.mp4';
-import '../css/typing.css';
+import '../../css/typing.css';
 
 export default props => {
-    const adjectivesArr = ["damos nosso máximo", "somos comprometidos com a sua satisfação",
-        "somos criativos", "somos experts em inovação", "nos importamos com seu negócio", "somos Gabel Tech"];
+    const adjectivesArr = ["creative", "compromised", "innovative", "passionate", "curious", "Gabel Tech"];
 
     const [adjective, setAdjective] = useState(adjectivesArr[0]);
 
@@ -29,13 +26,9 @@ export default props => {
 
     return (
         <div className="divTypingRoot">
-            <video autoPlay muted loop id="worldVideo">
-                <source src={worldVideo} type="video/mp4"></source>
-            </video>
             <div className="divTyping">
-
                 <h1 className="h1Adjectives" >
-                    Nós <span className="weAreAdjectives">{adjective}</span>
+                    We are <span className="weAreAdjectives">{adjective}</span>
                 </h1>
             </div>
         </div >

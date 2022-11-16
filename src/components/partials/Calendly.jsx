@@ -1,7 +1,7 @@
 import React from "react";
 import { GrSchedule } from 'react-icons/gr';
 
-import '../css/calendly.css';
+import '../../css/calendly.css';
 
 export default props => {
     return (
