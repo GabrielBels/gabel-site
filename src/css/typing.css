@@ -1,0 +1,21 @@
+.divTyping {
+  min-height: 90vh;
+color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.divTypingRoot {
+  background-repeat: no-repeat;
+  background-size: 100vw;
+}
+
+#worldVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}

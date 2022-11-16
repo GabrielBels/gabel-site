@@ -1,0 +1,36 @@
+img.logoHeader {
+  margin-left: 2vw;
+}
+
+header {
+  background-color: #0006;
+  min-height: 10vh;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+}
+
+.headerActButtons {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  margin-right: 2vw;
+}
+
+.headerLogo{
+  display: flex;
+  align-items: center;
+}
+
+.headerActButtons a{
+  padding: 0 1vw;
+  text-decoration: none;
+  color: ghostwhite;
+  display: flex;
+  align-items: center;
+}
+
+.headerActButtons a:hover{
+ background-color: #aaa6;
+ border-radius: 2px;
+}

@@ -1,10 +1,15 @@
 import React from "react";
 
+import Header from "./Header";
+import Calendly from "./Calendly";
+import Typing from "./Typing";
 
 export default props => {
     return (
         <>
-        <h1>Seja bem-vindo!</h1>
+        <Header/>
+        <Typing />
+        <Calendly />
         </>
     )
 }
