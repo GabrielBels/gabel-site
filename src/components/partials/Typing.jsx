@@ -3,7 +3,7 @@ import React, { useEffect, useState, useRef } from "react";
 import '../../css/typing.css';
 
 export default props => {
-    const adjectivesArr = ["creative", "compromised", "innovative", "passionate", "curious", "Gabel Tech"];
+    const adjectivesArr = ["creative", "committed", "innovative", "passionate", "curious", "Gabel Tech"];
 
     const [adjective, setAdjective] = useState(adjectivesArr[0]);
 
