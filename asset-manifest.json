@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b97804ba.css",
-    "main.js": "/static/js/main.bc4cc792.js",
-    "static/media/world.mp4": "/static/media/world.d8aa0ab5b035de226280.mp4",
-    "static/media/logo.png": "/static/media/logo.63f4cf36c6d2e51c817a.png",
-    "static/media/aguiar.jpg": "/static/media/aguiar.0d682a6a5b540453eb56.jpg",
-    "static/media/itinerance.png": "/static/media/itinerance.1d90b562fc95052ba9ac.png",
-    "static/media/contself.png": "/static/media/contself.c37113526796a119cda9.png",
-    "index.html": "/index.html",
-    "main.b97804ba.css.map": "/static/css/main.b97804ba.css.map",
-    "main.bc4cc792.js.map": "/static/js/main.bc4cc792.js.map"
+    "main.css": "/index.html/static/css/main.b97804ba.css",
+    "main.js": "/index.html/static/js/main.8d134d04.js",
+    "static/media/world.mp4": "/index.html/static/media/world.d8aa0ab5b035de226280.mp4",
+    "static/media/logo.png": "/index.html/static/media/logo.63f4cf36c6d2e51c817a.png",
+    "static/media/aguiar.jpg": "/index.html/static/media/aguiar.0d682a6a5b540453eb56.jpg",
+    "static/media/itinerance.png": "/index.html/static/media/itinerance.1d90b562fc95052ba9ac.png",
+    "static/media/contself.png": "/index.html/static/media/contself.c37113526796a119cda9.png",
+    "index.html": "/index.html/index.html",
+    "main.b97804ba.css.map": "/index.html/static/css/main.b97804ba.css.map",
+    "main.8d134d04.js.map": "/index.html/static/js/main.8d134d04.js.map"
   },
   "entrypoints": [
     "static/css/main.b97804ba.css",
-    "static/js/main.bc4cc792.js"
+    "static/js/main.8d134d04.js"
   ]
 }
