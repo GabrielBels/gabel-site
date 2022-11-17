@@ -40,10 +40,21 @@
       $("#" + id).show("slow");
     }
 
+    function toggleElementVisibility(selectors) {
+      selectors.forEach(selector => {
+        if ($(selector).css("display") == "none")
+          $(selector).css("display", "block")
+        else
+          $(selector).css("display", "none")
+      });
+    }
+
     $("#bg-element").click((e) => {
       e.preventDefault();
       return false;
-    })
+    });
+
+
   </script>
 
 </body>
