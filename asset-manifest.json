@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gabrielbels/gabel-site/static/css/main.b97804ba.css",
-    "main.js": "/gabrielbels/gabel-site/static/js/main.4fc00cfd.js",
-    "static/media/world.mp4": "/gabrielbels/gabel-site/static/media/world.d8aa0ab5b035de226280.mp4",
-    "static/media/logo.png": "/gabrielbels/gabel-site/static/media/logo.63f4cf36c6d2e51c817a.png",
-    "static/media/aguiar.jpg": "/gabrielbels/gabel-site/static/media/aguiar.0d682a6a5b540453eb56.jpg",
-    "static/media/itinerance.png": "/gabrielbels/gabel-site/static/media/itinerance.1d90b562fc95052ba9ac.png",
-    "static/media/contself.png": "/gabrielbels/gabel-site/static/media/contself.c37113526796a119cda9.png",
-    "index.html": "/gabrielbels/gabel-site/index.html",
-    "main.b97804ba.css.map": "/gabrielbels/gabel-site/static/css/main.b97804ba.css.map",
-    "main.4fc00cfd.js.map": "/gabrielbels/gabel-site/static/js/main.4fc00cfd.js.map"
+    "main.css": "/gabel-site/static/css/main.b97804ba.css",
+    "main.js": "/gabel-site/static/js/main.1feb57d0.js",
+    "static/media/world.mp4": "/gabel-site/static/media/world.d8aa0ab5b035de226280.mp4",
+    "static/media/logo.png": "/gabel-site/static/media/logo.63f4cf36c6d2e51c817a.png",
+    "static/media/aguiar.jpg": "/gabel-site/static/media/aguiar.0d682a6a5b540453eb56.jpg",
+    "static/media/itinerance.png": "/gabel-site/static/media/itinerance.1d90b562fc95052ba9ac.png",
+    "static/media/contself.png": "/gabel-site/static/media/contself.c37113526796a119cda9.png",
+    "index.html": "/gabel-site/index.html",
+    "main.b97804ba.css.map": "/gabel-site/static/css/main.b97804ba.css.map",
+    "main.1feb57d0.js.map": "/gabel-site/static/js/main.1feb57d0.js.map"
   },
   "entrypoints": [
     "static/css/main.b97804ba.css",
-    "static/js/main.4fc00cfd.js"
+    "static/js/main.1feb57d0.js"
   ]
 }
