@@ -1,7 +1,7 @@
 {
   "name": "gabel-site",
   "version": "0.1.0",
-  "homepage": "https://gabrielbels.github.io/gabel-site",
+  "homepage": "https://gabrielbels.github.io/",
   "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.9.1",

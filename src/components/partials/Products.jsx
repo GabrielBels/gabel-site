@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 
-import { FaUserFriends, FaTools, FaRobot, FaUser } from "react-icons/fa";
+import { FaUserFriends, FaTools, FaRobot, FaUser, FaPlusCircle } from "react-icons/fa";
 import { FiShoppingCart } from "react-icons/fi";
 import { BsGearFill } from "react-icons/bs";
 import { CgScreen } from "react-icons/cg";
@@ -39,6 +39,7 @@ export default props => {
                     <div className="divIcon">
                         <BsGearFill />
                         <h3>Automations (RPA)</h3>
+                        <FaPlusCircle />
                     </div>
                 </div>
                 <div className="border-rounded" onClick={e => toggleDescriptionIconVisibility(e)} >
@@ -48,6 +49,7 @@ export default props => {
                     <div className="divIcon">
                         <FaUserFriends />
                         <h3>IT Consulting</h3>
+                        <FaPlusCircle />
                     </div>
                 </div>
                 {!isComputerViewport ? <div className="break"></div> : ""}
@@ -58,7 +60,8 @@ export default props => {
                     </span>
                     <div className="divIcon">
                         <CgScreen />
-                        <h3>On demand <br></br>development</h3>
+                        <h3>On demand development</h3>
+                        <FaPlusCircle />
                     </div>
                 </div>
                 {isComputerViewport ? <div className="break"></div> : ""}
@@ -69,6 +72,7 @@ export default props => {
                     <div className="divIcon">
                         <GrCloudComputer style={{ filter: "invert(1)" }} />
                         <h3>Host and Domain</h3>
+                        <FaPlusCircle />
                     </div>
                 </div>
                 {!isComputerViewport ? <div className="break"></div> : ""}
@@ -78,7 +82,8 @@ export default props => {
                     </span>
                     <div className="divIcon">
                         <FiShoppingCart />
-                        <h3>Virtual Store <br></br>(e-Commerce)</h3>
+                        <h3>Virtual Store (e-Commerce)</h3>
+                        <FaPlusCircle />
                     </div>
                 </div>
                 <div className="border-rounded" onClick={e => toggleDescriptionIconVisibility(e)}>
@@ -88,6 +93,7 @@ export default props => {
                     <div className="divIcon">
                         <FaTools />
                         <h3>Maintenance and Support</h3>
+                        <FaPlusCircle />
                     </div>
                 </div>
             </div>

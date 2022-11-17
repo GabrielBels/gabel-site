@@ -25,6 +25,8 @@
   margin-bottom: 10vh;
   border: 3px solid white;
   cursor: pointer;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 .break {
@@ -33,8 +35,16 @@
   margin-bottom: 0vh;
 }
 
+.plusSignal{
+  margin-top: 0;
+}
+
 .description{
   display: none;
+}
+
+h3{
+  white-space: nowrap;
 }
 
 @media (max-width: 767px) {
@@ -48,6 +58,6 @@
 @media (min-width: 768px) {
   .border-rounded {
     width: 30vw;
-    height: 35vh;
+    height: 40vh;
   }
 }
