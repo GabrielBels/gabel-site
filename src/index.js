@@ -13,7 +13,7 @@ import Contact from './components/roots/Contact';
 
 const router = createBrowserRouter([
   {
-    path: "/Home",
+    path: "/",
     element: <Home />,
     errorElement: <NotFound />
   },

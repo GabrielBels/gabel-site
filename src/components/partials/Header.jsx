@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 import '../../css/header.css'
 
 export default props => {
-    const [buttons, setButtons] = useState([{ url: "/Home", name: "Home" }, { url: "/Clients", name: "Clients" },
+    const [buttons, setButtons] = useState([{ url: "/", name: "Home" }, { url: "/Clients", name: "Clients" },
     { url: "/Products", name: "Products" }, { url: "/Contact", name: "Contact" }]);
 
     useEffect(() => {
@@ -17,7 +17,7 @@ export default props => {
         <>
             <header>
                 <div className="headerLogo">
-                    <Link to="/Home">
+                    <Link to="/">
                         <img className="logoHeader" alt="Gabel Tech's logo" src={logo} width="40vw" height="40vh" />
                     </Link>
                 </div>

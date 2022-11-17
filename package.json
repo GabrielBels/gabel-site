@@ -1,8 +1,8 @@
 {
   "name": "gabel-site",
   "version": "0.1.0",
-  "homepage": "https://github.com/gabrielbels/gabel-site",
-  "private": true,
+  "homepage": "https://gabrielbels.github.io/gabel-site",
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
     "@testing-library/jest-dom": "^5.16.5",
